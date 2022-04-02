@@ -1,2 +1,4 @@
 # mqtt-demo-app
- Aplikacja demonstracyjna prezentująca możliwości protokołu MQTT
+ This is simple application to demonstrate handling MQTT communication using Astraada One PLC Controller. 
+
+
